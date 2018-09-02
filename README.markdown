@@ -42,7 +42,7 @@ DEVELOPERS
 ==========
 
 There's a [library][1] I've written that lets you use various LS COLORS on
-arbitary files and directories. A simple implementation can be found [here][2].
+arbitrary files and directories. A simple implementation can be found [here][2].
 
 Using this, you can do
 
@@ -57,7 +57,11 @@ SO WHAT DOES IT LOOK LIKE
 
 Here's a screenshot:
 
-![LS_COLORS](http://devel.japh.se/LS_COLORS/LS_COLORS.png)
+![LS_COLORS](http://orig07.deviantart.net/f59a/f/2016/087/a/e/ls_colors_1_by_trapd00r-d9wrdoa.png)
+
+And another one:
+
+![LS_COLORS_2](http://orig02.deviantart.net/5c73/f/2016/087/4/8/ls_colors_2_by_trapd00r-d9wrdrq.png)
 
 
   [0]: https://github.com/trapd00r/zsh-syntax-highlighting-filetypes
